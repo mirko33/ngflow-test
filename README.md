@@ -1,2 +1,3 @@
 # ngflow-test
-The first sentence is correct.
+The first sentence was correct.
+But now the second sentence is right.
